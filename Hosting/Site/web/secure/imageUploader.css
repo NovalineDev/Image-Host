@@ -1,0 +1,23 @@
+@import url('https://novaline.xyz/secure/googleFontZ.css');
+    body {
+        background: #36393f;
+    }
+    .container {
+	overflow: hidden;
+        display: flex;
+        flex-direction: column;
+        position: fixed;
+        left: 50%;
+        top: 50%;
+        transform: translate(-50%, -50%);
+        width: 80vw;
+        border-radius: 20px;
+        text-align: center;
+        font-family: 'Nunito', sans-serif;
+        color: #dcddde;
+        background: #202225;
+
+    }
+    .container .image {
+        margin: 0 auto 20px;
+    }

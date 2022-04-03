@@ -1,0 +1,11 @@
+{
+  "Name": "Image Host",
+  "DestinationType": "ImageUploader",
+  "RequestURL": "https://put-your-domain-here/api/v2/upload",
+  "FileFormName": "image",
+  "Arguments": {
+    "secret_key": "put-your-key-here",
+    "user_id": 1
+  },
+  "URL": "$json:domain$/i2/$json:filename$$json:extension$"
+}
