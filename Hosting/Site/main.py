@@ -150,7 +150,7 @@ def imageHostv2_Embed(filename):
                 </div>
                 """
 
-    return '''
+    return f'''
 	    <title>File not found</title>
         <link rel="stylesheet" href="https://{domain}/secure/imageUploader.css">
         <meta property="og:title" content='File not found.'>
@@ -217,7 +217,7 @@ def imageHostv2_embedPreview(user):
                 """
 
     except Exception:
-        return '''<title>User not found</title>
+        return f'''<title>User not found</title>
         <link rel="stylesheet" href="https://{domain}/secure/imageUploader.css">
         <meta property="og:title" content='User not found.'>
 	    <div class="container">
