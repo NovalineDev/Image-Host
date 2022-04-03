@@ -7,7 +7,7 @@ link = "put-your-link-here"
 # Should look something like this https://ibb.co/8mjzx4P
 # You can find this in your MongoDB panel
 
-bot_token = "OTU5ODAxNjc1MjE5MDc1MTMy.YkhK9w.vMWhyHtsRK9CYSH9iehx_OxE7Ko"
+bot_token = "put-the-token-here"
 # The token of the bot that'll manage your hosting
 # Make sure all intents are enabled
 
