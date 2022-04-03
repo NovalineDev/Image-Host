@@ -6,4 +6,5 @@ All the config options can be found in Hosting/Site/functions/imageHostv2.py, on
 
 # MongoDB
 You'll have to copy the same layout as on the screenshot below.
+
 <img src="https://media.discordapp.net/attachments/894267089567764533/960221464219500584/na1EweU.png"/>
